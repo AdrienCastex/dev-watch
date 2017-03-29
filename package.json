@@ -1,0 +1,24 @@
+{
+  "name": "dev-watch",
+  "version": "0.1.0",
+  "description": "Watch files and compile/transform them for development purpose",
+  "main": "./lib/dev-watch",
+  "keywords": [
+    "dev-watch",
+    "watch",
+    "compile",
+    "transform",
+    "development"
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "bin": {
+    "dev-watch": "./bin/dev-watch"
+  },
+  "author": "Adrien Castex <adrien.castex@gmail.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "node-watch": "^0.5.2"
+  }
+}
