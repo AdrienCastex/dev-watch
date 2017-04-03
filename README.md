@@ -49,3 +49,10 @@ dev-watch <configuration-file-path> [<cmd>]
 dev-watch package.json
 dev-watch package.json clean
 ```
+
+## Short road-map
+
+* Add tar/zlib module
+* Add 'custom' module
+* Add 'text replacer' module
+* Add 'copier' module
