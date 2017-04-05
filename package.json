@@ -19,6 +19,7 @@
   "author": "Adrien Castex <adrien.castex@gmail.com>",
   "license": "Unlicense",
   "dependencies": {
+    "fs-extra": "^2.1.2",
     "node-watch": "^0.5.2"
   }
 }
