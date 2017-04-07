@@ -1,6 +1,6 @@
 {
   "name": "dev-watch",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Watch files and compile/transform them for development purpose",
   "main": "./lib/dev-watch",
   "keywords": [
@@ -19,7 +19,9 @@
   "author": "Adrien Castex <adrien.castex@gmail.com>",
   "license": "Unlicense",
   "dependencies": {
+    "browserify": "^14.3.0",
     "fs-extra": "^2.1.2",
+    "node-sass": "^4.5.2",
     "node-watch": "^0.5.2"
   }
 }
