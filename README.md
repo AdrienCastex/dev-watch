@@ -52,7 +52,7 @@ dev-watch package.json clean
 
 ## Short road-map
 
-* Add tar/zlib module
-* Add 'custom' module
-* Add 'text replacer' module
-* Add 'copier' module
+- [ ] Add tar/zlib module
+- [ ] Add 'custom' module
+- [ ] Add 'text replacer' module
+- [ ] Add 'copier' module
