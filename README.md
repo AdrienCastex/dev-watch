@@ -55,4 +55,4 @@ dev-watch package.json clean
 - [ ] Add tar/zlib module
 - [ ] Add 'custom' module
 - [ ] Add 'text replacer' module
-- [ ] Add 'copier' module
+- [x] Add 'copier' module
