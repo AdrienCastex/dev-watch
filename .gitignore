@@ -1,1 +1,4 @@
 node_modules
+test/copy/dest
+test/typescript/dest
+test/typescript/dest2
