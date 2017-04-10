@@ -1,6 +1,6 @@
 {
   "name": "dev-watch",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Watch files and compile/transform them for development purpose",
   "main": "./lib/dev-watch",
   "keywords": [
