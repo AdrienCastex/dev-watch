@@ -16,6 +16,9 @@
   "bin": {
     "dev-watch": "./bin/dev-watch"
   },
+  "scripts": {
+    "test": "cd test && node tester.js"
+  },
   "author": "Adrien Castex <adrien.castex@gmail.com>",
   "license": "Unlicense",
   "dependencies": {
