@@ -15,6 +15,7 @@ Here is a sample :
 {
   "devWatch": {
     "cmd": "dev",
+    "isVerbose": true,
     "runs": [
       {
         "type": "typescript",
